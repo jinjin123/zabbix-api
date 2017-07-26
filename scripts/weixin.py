@@ -17,9 +17,10 @@ from lxml import etree
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-
+########!! change catch pic path 
 #####tar -jxvf phantomjs-2.1.1-linux-x86_64.tar.bz2
 ######mv phantomjs-2.1.1-linux-x86_64 /usr/local/phantomjs-2.1.1
+
 
 
 class WeiXin(object):
